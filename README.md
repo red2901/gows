@@ -1,0 +1,2 @@
+# gows
+gocode workspace
